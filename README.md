@@ -5,29 +5,29 @@ Challenge Details
 
 The primary objectives were to:
 
-    Identify key pain points for Google Maps users, such as confusion between similar-looking roads and enhancing the navigation experience for both car drivers and two-wheeler riders.
-    Propose three new features that could seamlessly integrate into the current app interface.
-    Prioritize these features based on user impact and ease of implementation.
-    Develop a monetization strategy to capitalize on these new features.
-    Design wireframes using tools like Balsamiq and Figma to visually represent the solutions.
-    Define success metrics to measure the effectiveness of the new features once implemented.
+   1.  Identify key pain points for Google Maps users, such as confusion between similar-looking roads and enhancing the navigation experience for both car drivers and two-wheeler riders.
+   2.  Propose three new features that could seamlessly integrate into the current app interface.
+   3.  Prioritize these features based on user impact and ease of implementation.
+   4.  Develop a monetization strategy to capitalize on these new features.
+   5.  Design wireframes using tools like Balsamiq and Figma to visually represent the solutions.
+   6.  Define success metrics to measure the effectiveness of the new features once implemented.
 
 
 Proposed Features
 
-    Travel Companion:
+    1. Travel Companion:
         Description: An AI-driven feature that provides personalized trip planning suggestions, such as nearby petrol pumps, restaurants, medical facilities, and amusement parks, based on user preferences.
         Benefits: Enhances travel experiences with tailored recommendations and real-time updates.
         Business Opportunity: Partner with local businesses for sponsored recommendations and offer premium travel planning features via subscription.
         Success Metrics: User satisfaction with recommendations, click-through rates, and conversion rates for recommended locations.
 
-    Road Scout:
+    2. Road Scout:
         Description: Offers detailed information about road conditions, including lane sizes, road surface types, and terrain, to improve route planning.
         Benefits: Helps users avoid challenging roads and make better route decisions for safety and comfort.
         Business Opportunity: Collaborate with insurance companies for discounts and offer premium features for detailed road conditions targeting professional drivers.
         Success Metrics: User engagement, reduction in travel time, and safety metrics.
 
-    Navigation Ninja:
+    3. Navigation Ninja:
         Description: An interactive educational tool within Google Maps that uses games to teach users how to navigate and utilize map features effectively.
         Benefits: Improves user understanding of navigation, reduces errors, and makes learning fun.
         Business Opportunity: Gamify the experience with in-app purchases and partner with driving schools for educational use.
